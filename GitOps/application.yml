@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/harshXprojects/Wanderlust-Mega-Project2
     targetRevision: main
-    path: Wanderlust-Mega-Project
+    path: Kubernetes
   destination: 
     server: https://kubernetes.default.svc
     namespace: default
